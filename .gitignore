@@ -1,1 +1,4 @@
 node_modules/
+
+# Local backup of original nested Git repository
+/vision-demos-git-metadata-backup/
